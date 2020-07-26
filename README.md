@@ -1,4 +1,4 @@
-# Neural-Image-Captioning-for-Visually-Impaired
+# Neural Image Captioning for Visually Impaired
 
 1. Even though state-of-the-art models that describe the contents of an image have been proposed, very few of them have been applied for use, in end-to-end solutions for aiding the visually impaired. 
 
